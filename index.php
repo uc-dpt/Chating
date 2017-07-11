@@ -8,7 +8,7 @@ function dispalyTable($i){
 }
 dispalyTable(5);
 dispalyTable(12);
-
+echo "hello";
 function dispalyTable2($i){
 	echo "Table of ". $i . " :";
 	for($j = 1; $j <= 10; $j++){
