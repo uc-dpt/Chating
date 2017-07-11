@@ -7,4 +7,5 @@ function dispalyTable($i){
 	}
 }
 dispalyTable(5);
+dispalyTable(12);
 ?>
