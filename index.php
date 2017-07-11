@@ -7,6 +7,7 @@ function dispalyTable($i){
 	}
 }
 dispalyTable(5);
+dispalyTable(12);
 
 function dispalyTable2($i){
 	echo "Table of ". $i . " :";
@@ -15,4 +16,5 @@ function dispalyTable2($i){
 	}
 }
 dispalyTable2(10);
+
 ?>
